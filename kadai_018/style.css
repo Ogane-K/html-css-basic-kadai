@@ -27,19 +27,16 @@
 }
 
 #middle-child01{
-    
     top: 100px;
     left: 100px;
 }
 
 #middle-child02{
-    
     top: 300px;
     left: 300px;
 }
 
 #middle-child03{
-    
     top: 500px;
     left: 500px;
 }
@@ -47,7 +44,6 @@
 #bottom{   
     width: 800px;
     height: 300px;
-    
     margin:0 auto;
     background-color: #87ceeb;
 }
