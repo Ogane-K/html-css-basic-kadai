@@ -22,7 +22,7 @@ h1{
     font-style: normal;
     font-size: 2rem;
     letter-spacing: 1.2em;
-    text-shadow: 10% 10% 5% gray;
+    text-shadow: 10px 10px 5px gray;
     border-bottom: solid 3px rgb(115,115,114);
 
 }
